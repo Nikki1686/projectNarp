@@ -1,6 +1,6 @@
 # Team Agreement
 
-#### General Agreements
+### General Agreements
 1. No All-Nighters
 2. Take a break every 1 or 2 hours
 3. Pair programming
